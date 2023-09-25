@@ -1,7 +1,7 @@
 <header>
   <nav class="navbar navbar-expand-lg bg-body-tertiary">
     <div class="container">
-      <a class="navbar-brand" href="#"
+      <a class="navbar-brand" href="/"
         ><img src="/images/dc-logo.png" alt="logo"
       /></a>
       <button
@@ -20,7 +20,7 @@
         id="navbarNavAltMarkup"
       >
         <div class="navbar-nav text-uppercase">
-          <a class="nav-link" href="#">Character</a>
+          <a class="nav-link" href="/1">Character</a>
           <a class="nav-link" href="#">Comics</a>
           <a class="nav-link" href="#">Movies</a>
           <a class="nav-link" href="#">Tv</a>
