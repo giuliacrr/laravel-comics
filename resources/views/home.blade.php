@@ -1,5 +1,5 @@
 @extends('layout.layout')
-
+@section("title", "DC Comics - Homepage")
 @section("content")
 <div>
   <div class="container container-home position-relative">
@@ -39,3 +39,4 @@
   </div>
 </div>
 @endsection
+
